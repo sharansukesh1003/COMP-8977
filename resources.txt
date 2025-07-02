@@ -1,0 +1,15 @@
+// CUDA //
+
+SoftMax implementation - https://maharshi.bearblog.dev/optimizing-softmax-cuda/
+
+// Triton //
+
+SoftMax implementation - https://www.youtube.com/watch?v=Z5EcYhGf-Mk
+
+// For CUDA setup //
+
+Install CUDA drivers, latest Nvidia drivers, C++ tools, Python 3.11.8
+
+// Triton Setup //
+
+https://isamu-website.medium.com/understanding-the-triton-tutorials-part-1-6191b59ba4c
