@@ -1,7 +1,7 @@
+import numpy as np
 import pycuda.autoinit
 import pycuda.driver as cuda
 from pycuda.compiler import SourceModule
-import numpy as np
 
 # CUDA Kernel: warp-reduce optimized softmax
 kernel_code = """

@@ -1,6 +1,6 @@
+import numpy as np
 import pycuda.autoinit
 import pycuda.driver as cuda
-import numpy as np
 from pycuda.compiler import SourceModule
 
 relu_kernel = SourceModule("""
