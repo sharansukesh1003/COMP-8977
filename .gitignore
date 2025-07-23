@@ -1,3 +1,11 @@
 /.venv
 TEAM5-SHARAN-SUKESH-JLR-UWINDSOR-S25.pdf
 triton-2.1.0-cp311-cp311-win_amd64.whl
+MNIST/
+miniconda.sh
+
+# miniconda.shgit rm --cached miniconda.sh       # Unstage it from Git but keep locally
+# echo "miniconda.sh" >> .gitignore  # Ignore it in future
+# git add .gitignore
+# git commit -m "Remove large file and ignore"
+# git push origin Sanjay             # Try pushing again
