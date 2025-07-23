@@ -9,3 +9,4 @@ miniconda.sh
 # git add .gitignore
 # git commit -m "Remove large file and ignore"
 # git push origin Sanjay             # Try pushing again
+miniconda.sh
